@@ -1,0 +1,3 @@
+To run the volunteer scheduling program, simply compile and execute the VolunteerSchedulerGUI.java file. Upon starting the program, a GUI will appear with an option to add volunteers. To add a volunteer, enter their name, age, skill (beer or ball runner), and availability for event days (Friday, Saturday, or Sunday). After adding volunteers, you can generate a schedule by clicking the "Generate Schedule" button. The program will display the volunteer assignments in a text area.
+
+Additionally, you can export the schedule to a text file by clicking the "Export to File" button. This will allow you to save the schedule on your computer for printing or future reference.
